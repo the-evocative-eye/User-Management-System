@@ -6,7 +6,7 @@ their choice. The information will be kept confidential with respect to their ac
 time and they can use it at times when they  forget their basic stuff.
 
 #GETTING STARTED
-Make sure you have node and npm installed in your local already (to check if they are present node --version, it must display the version) One can do this in CMD.
+Make sure you have node and npm installed in your local already (to check if they are present type node --version, it must display the version) One can do this in CMD.
 1. Make sure to be in the folder where you want to clone the project -> To set up the project locally, use command git clone https://github.com/the-evocative-eye/User-management-system.git (Use GITBASH OR CMD for the same)
 2. VSCODE -> OPEN THIS FOLDER -> Now use Powershell or terminal within VSCODE to run further commands
 3. npm init -> npm install express body-parser mongoose morgan axios dot-env express-handlebars nodemon ejs
