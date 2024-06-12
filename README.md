@@ -1,9 +1,12 @@
 # User-management-system
 It operates the function of a database.
-This is basically a backend-based project that deals with creating, updating, inserting, finding, and deleting operations of the database.
+This is basically a backend-based project that deals with CRUD operations such as creating, updating, inserting, finding, and deleting within the database.
 The info of that specific person will be saved to our database cloud and thence they can retrieve information whenever they want to, update it, or delete it as per
-their choice. The information will be kept confidential with respect to their accounts. Also, this online saving information will help an individual save  
-time and they can use it at times when they  forget their basic stuff.
+their choice. The information will be kept confidential with respect to their accounts. 
+I've tried using the virtual database, and connected my project using mongodb cluster, which is eventually not just securing the data, but also increase the retrieval of data faster.
+The techstacks used at backend for routing is express js with the simple command interface frontend using ejs.
+Right now I've manually added the coloumns of the table according to my convenience, and as the other persom logs in, they can modify the table as per their needs, and perform CRUD operations, without using any of the query or command, so somewhere it's an integration of the queries which we use almost around every technological work.
+
 
 #GETTING STARTED
 Make sure you have node and npm installed in your local already (to check if they are present type node --version, it must display the version) One can do this in CMD.
